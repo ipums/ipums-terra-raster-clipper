@@ -1,0 +1,36 @@
+# Copyright (c) 2012-2017 Regents of the University of Minnesota
+#
+# This file is part of the Minnesota Population Center's IPUMS Terra Project.
+# For copyright and licensing information, see the NOTICE and LICENSE files
+# in this project's top-level directory, and also on-line at:
+#   https://github.com/mnpopcenter/ipums-terra-raster-clipper
+
+== README
+
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
